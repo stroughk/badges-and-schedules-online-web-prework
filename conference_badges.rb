@@ -4,6 +4,6 @@ end
 
 attendees = ["Amy", "Emily", "Vincent"]
 
-def batch_badge_creator
+def batch_badge_creator(attendees)
 
 end
