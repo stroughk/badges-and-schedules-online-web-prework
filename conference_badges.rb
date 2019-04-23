@@ -5,6 +5,6 @@ end
 attendees = ["Amy", "Emily", "Vincent"]
 
 def batch_badge_creator(attendees)
-  attendees.map do 
+  attendees.map do |attendee|
 
 end
